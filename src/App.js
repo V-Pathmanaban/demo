@@ -10,7 +10,7 @@ function App() {
             <h1 className="d">Hello World</h1>
           </div>
           <div className="col-lg-6">
-            <h1 className="d">Hello World</h1>
+            <h1 className="d">Hello World1</h1>
             <h1 className="d">Hello World</h1>
           </div>
         </div>
